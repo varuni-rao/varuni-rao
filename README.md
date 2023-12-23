@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Sciences, AI and Math
 - 🌱 I’m currently learning Unsupervised and Supervised Machine Learning Techniques and Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects in the above mentioned areas of interest
-- 📫 How to reach me ... you can drop me a message on my github page or LinkedIn - www.linkedin.com/in/varuni-rao-4b309128a
+- 📫 How to reach me ... you can drop me a message on my github page or LinkedIn - www.linkedin.com/in/varuni-rao-thumsi
 
 <!---
 varuni-rao/varuni-rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
