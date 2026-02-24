@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @varuni-rao
-- 👀 I’m interested in Data Sciences, AI and Math
-- 🏆 I’m proficient in Unsupervised and Supervised Machine Learning Techniques and Deep Learning
-- 🌱 I'm learning AI skills involving LLM and Microsoft Azure platform
-- 👩🏻‍🏫 I teach school kids advance math skills such as Pre-calculus and Calculus
-- 💞️ I’m looking to collaborate on AI projects in the above mentioned areas of interest
-- 📫 How to reach me ... you can drop me a message on my github page or [LinkedIn](www.linkedin.com/in/varuni-rao-thumsi)
+# Hi, I'm Varuni Rao 👋 
+### Data Scientist | Systems Engineer | Former SCADA Specialist (ABB/Tata Power)
 
-<!---
-varuni-rao/varuni-rao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I bridge the gap between **Industrial Control Systems** and **Machine Learning**. With a foundation in high-stakes engineering for power grids and manufacturing, I now focus on building robust, automated ML pipelines (MLOps) that prioritize reliability and scalability.
+
+---
+
+### 🛠 Tech Stack & Expertise
+* **Data Science:** Python (Scikit-Learn, Pandas, NumPy), Random Forest Regression, Hyperparameter Tuning.
+* **Deep Learning:** PyTorch, CNNs, Computer Vision for industrial quality inspection.
+* **MLOps & DevOps:** GitHub Actions (CI/CD), Azure ML, Docker, Environment Management.
+* **Industrial Engineering:** SCADA (MicroSCADA), Control Systems Logic, Project Engineering & Management.
+
+---
+
+### 🏭 From Power Grids to Data Science
+My transition from a **Senior Systems Engineer-SCADA at ABB** (Project Lead) to a **Data Scientist** is driven by the belief that AI should be as reliable as a power grid.
+* **Engineering Rigor:** I apply "Control Theory" mindsets to ML deployment, ensuring every model has safety interlocks (tests) and clear audit trails (logging).
+* **Project Leadership:** Extensive experience managing multi-million dollar procurement and technical implementation projects for clients like **Tata Power**.
+
+---
+
+### 🌟 Featured Projects
+
+#### [MLOps: Automated Regression Pipeline](https://github.com/varuni-rao/MLOps-Auto-Vehicle-Pricing-Pipeline)
+* **The Project Goal:** An end-to-end pipeline for **Used Car Price Prediction** using a Random Forest Regressor to automate asset price prediction.
+* **The Value:** Automates the transition from raw data to a deployed model on **Azure**, featuring automated quality gates via **GitHub Actions**.
+* **Parallel:** Treats model drift and accuracy like real-time sensor monitoring in a SCADA environment.
+* **Tech:** GitHub Actions, Azure, Python.
+
+#### [Predictive-Market-Analysis (Work in Progress)]
+* **Goal:** Applying regression techniques to market trends.
+* **Focus:** Feature Engineering and high-accuracy forecasting.
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/varuni-rao-thumsi](https://www.linkedin.com/in/varuni-rao-thumsi)
+* **Current Focus:** Seeking roles in **Data Science**, **Technical Project Management**, or **Systems Engineering** where I can drive digital transformation in manufacturing and energy sectors.
