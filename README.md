@@ -1,5 +1,5 @@
 # Hi, I'm Varuni Rao 👋 
-### Data Scientist | Systems Engineer | Former SCADA Specialist (ABB/Tata Power)
+### Data Scientist | Systems Engineer | Technical Project Manager | Former SCADA Specialist (ABB/Tata Power)
 
 I bridge the gap between **Industrial Control Systems** and **Machine Learning**. With a foundation in high-stakes engineering for power grids and manufacturing, I now focus on building robust, automated ML pipelines (MLOps) that prioritize reliability and scalability.
 
