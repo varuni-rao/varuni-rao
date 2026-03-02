@@ -28,9 +28,9 @@ My transition from a **Senior Systems Engineer-SCADA at ABB** (Project Lead) to 
 * **Parallel:** Treats model drift and accuracy like real-time sensor monitoring in a SCADA environment.
 * **Tech:** GitHub Actions, Azure, Python.
 
-#### [Predictive-Market-Analysis (Work in Progress)]
-* **Goal:** Applying regression techniques to market trends.
-* **Focus:** Feature Engineering and high-accuracy forecasting.
+#### [Agentic Market Intelligence: Multi-Agent RAG System](https://github.com/varuni-rao/Agentic-Market-Intelligence)
+* **Goal:** Automating high-fidelity competitor research and strategic analysis using a collaborative swarm of AI agents.
+* **Focus:** Agentic orchestration with **LangGraph**, state-managed RAG loops, and industrial-grade data validation using Pydantic and ChromaDB.
 
 ---
 
