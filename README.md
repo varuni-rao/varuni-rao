@@ -22,7 +22,7 @@ My transition from a **Senior Systems Engineer-SCADA at ABB** (Project Lead) to 
 
 ### 🌟 Featured Projects
 
-#### [Multi-Agent Market Intelligence: Multi-Agent RAG System](https://github.com/varuni-rao/Agentic-Market-Intelligence)
+#### [Multi-Agent Market Intelligence: Multi-Agent RAG System](https://github.com/varuni-rao/multi-agent-market-intel-rag)
 * **Goal:** Automating high-fidelity competitor research and strategic analysis using a collaborative swarm of AI agents.
 * **Focus:** Agentic orchestration with **LangGraph**, state-managed RAG loops, and industrial-grade data validation using Pydantic and ChromaDB.
 
@@ -31,6 +31,12 @@ My transition from a **Senior Systems Engineer-SCADA at ABB** (Project Lead) to 
 * **The Value:** Automates the transition from raw data to a deployed model on **Azure**, featuring automated quality gates via **GitHub Actions**.
 * **Parallel:** Treats model drift and accuracy like real-time sensor monitoring in a SCADA environment.
 * **Tech:** GitHub Actions, Azure, Python.
+
+#### [Data Analytics & BI Portfolio: Power BI KPI Dashboards](https://github.com/varuni-rao/powerbi-kpi-dashboard)
+* **The Project Goal:** A centralized hub for diagnostic analytics built with Power BI and Python, applying systems engineering to business data — from supply chain monitoring to global market mapping.
+* **The Value:** Turns raw operational data into prescriptive actions: isolated profit drivers behind a 37.4% margin (Sydney/Albury), mapped 9,500+ restaurants to find cost-rating mismatches, and uncovered weekday delivery latency affecting 38% of unrated customers.
+* **Parallel:** Treats KPI drift, margin variance, and latency spikes like real-time alarm thresholds in a SCADA control loop — monitor, diagnose, prescribe.
+* **Tech:** Power BI, DAX, Data Modeling, Python (pandas), EDA, Geospatial Visualization
 
 ---
 
