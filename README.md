@@ -1,7 +1,7 @@
 # Hi, I'm Varuni Rao 👋 
-### Data Scientist | Systems Engineer | Technical Project Manager | Former SCADA Specialist (ABB/Tata Power)
+### Data Scientist | Systems Engineer
 
-I bridge the gap between **Industrial Control Systems** and **Machine Learning**. With a foundation in high-stakes engineering for power grids and manufacturing, I now focus on building robust, automated ML pipelines (MLOps) that prioritize reliability and scalability.
+I bridge the gap between **Industrial Control Systems** and **Machine Learning**. I build production-ready pipelines and ML Systems. Ex-ABB SCADA lead, ex-MTU/Rolls-Royce. Kaggle Silver Medalist(Top 4%).
 
 ---
 
@@ -22,15 +22,15 @@ My transition from a **Senior Systems Engineer-SCADA at ABB** (Project Lead) to 
 
 ### 🌟 Featured Projects
 
+#### [Multi-Agent Market Intelligence: Multi-Agent RAG System](https://github.com/varuni-rao/Agentic-Market-Intelligence)
+* **Goal:** Automating high-fidelity competitor research and strategic analysis using a collaborative swarm of AI agents.
+* **Focus:** Agentic orchestration with **LangGraph**, state-managed RAG loops, and industrial-grade data validation using Pydantic and ChromaDB.
+
 #### [MLOps: Automated Regression Pipeline](https://github.com/varuni-rao/MLOps-Auto-Vehicle-Pricing-Pipeline)
 * **The Project Goal:** An end-to-end pipeline for **Used Car Price Prediction** using a Random Forest Regressor to automate asset price prediction.
 * **The Value:** Automates the transition from raw data to a deployed model on **Azure**, featuring automated quality gates via **GitHub Actions**.
 * **Parallel:** Treats model drift and accuracy like real-time sensor monitoring in a SCADA environment.
 * **Tech:** GitHub Actions, Azure, Python.
-
-#### [Agentic Market Intelligence: Multi-Agent RAG System](https://github.com/varuni-rao/Agentic-Market-Intelligence)
-* **Goal:** Automating high-fidelity competitor research and strategic analysis using a collaborative swarm of AI agents.
-* **Focus:** Agentic orchestration with **LangGraph**, state-managed RAG loops, and industrial-grade data validation using Pydantic and ChromaDB.
 
 ---
 
