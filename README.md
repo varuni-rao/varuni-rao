@@ -38,6 +38,11 @@ My transition from a **Senior Systems Engineer-SCADA at ABB** (Project Lead) to 
 * **Parallel:** Treats KPI drift, margin variance, and latency spikes like real-time alarm thresholds in a SCADA control loop — monitor, diagnose, prescribe.
 * **Tech:** Power BI, DAX, Data Modeling, Python (pandas), EDA, Geospatial Visualization
 
+#### [Home Credit Risk Prediction based on Stability Metric](https://github.com/varuni-rao/home-credit-risk-stability-silver)
+* **The Project Goal:** A centralized hub for credit risk analytics built with Python and LightAutoML, applying systems engineering to financial data — from time-aware validation to model stability monitoring
+* **The Value:** Turns raw loan application data into stable predictions: engineered a WEEK_NUM grouped CV that mimics production drift, isolated temporal leakage behind Gini degradation, and delivered a silver-medal solution (Top 4%, Rank 147/3,856) that generalizes across future weeks.
+* **Parallel:** Treats AUC decay, Gini variance, and week-over-week drift like real-time alarm thresholds in a SCADA control loop — monitor, diagnose, prescribe.
+* **Tech:** Python, LightAutoML, LightGBM, H2O AutoML, pandas, Polars, scikit-learn, Time-Series CV, Feature Engineering
 ---
 
 ### 📫 Connect with Me
